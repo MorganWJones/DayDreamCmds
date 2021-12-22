@@ -1,0 +1,18 @@
+{
+  "name": "daydreamcmds",
+  "version": "0.0.0-dev1",
+  "main": "out/index.js",
+  "repository": "https://github.com/INF-INITY/DayDreamCmds",
+  "author": "INFINITY <morgan@infinityuk.ga>",
+  "license": "MIT",
+  "scripts": {
+    "watch": "node scripts/watch.js"
+  },
+  "devDependencies": {
+    "chokidar": "^3.5.2",
+    "colorette": "^2.0.16",
+    "esbuild": "^0.14.7",
+    "esbuild-plugin-d.ts": "^1.1.0",
+    "typescript": "^4.5.4"
+  }
+}
